@@ -4,7 +4,7 @@ import os
 import datetime
 import logging
 import requests
-from dataclasses import dataclass
+from dataclasses import dataclas
 from pathlib import Path
 
 
