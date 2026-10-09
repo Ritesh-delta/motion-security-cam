@@ -2,8 +2,7 @@ import cv2
 import time
 import os
 import datetime
-import logging
-import requests
+import loggingimport requests
 from dataclasses import dataclas
 from pathlib import Path
 
